@@ -23,7 +23,7 @@ python -m pip install -e . -r requirements.txt
 ### Script Invocation
 
 ```bash
-lhe2hdf5 -i lhe_dir/ -o output.hdf5
+lhe2hdf5 -i lhe_dir/ -o output.h5
 ```
 
 ### Parameters
