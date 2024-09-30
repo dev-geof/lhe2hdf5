@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The `lhe2hdf5` tool provides a streamlined solution for converting "Les Houches Event" (LHE) files into HDF5 format. The LHE file format is widely used in high-energy physics simulations to store particle event data, including the kinematic information of particles produced in collision events. Both uncompressed (.lhe) and compressed (.lhe.gz) LHE files can be read by the tool. The processed particle data, including particle ID, status, momentum components, energy, mass, transverse momentum, and rapidity, as well as the event weights are saved in an HDF5 file for efficient storage and retrieval
+The `lhe2hdf5` tool provides a streamlined solution for converting "Les Houches Event" (LHE) files into HDF5 format. The LHE file format is widely used in high-energy physics simulations to store particle event data, including the kinematic information of particles produced in collision events. Both uncompressed (.lhe) and compressed (.lhe.gz) LHE files can be read by the tool. The processed particle data, including particle ID, status, momentum components, energy, mass, transverse momentum, and rapidity, as well as the event weights are saved in an HDF5 file for efficient storage and retrieval.
 
 ## Getting the Code
 
